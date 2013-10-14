@@ -1,0 +1,15 @@
+ros-hydro-utilrb (2.7.0-0quantal) quantal; urgency=high
+
+  * catkin: added run_depend on catkin to package.xml for released packages
+    Signed-off-by: Johannes Meyer <mailto:johannes@intermodalics.eu>
+  * adding minimum cmake version
+  * catkin: add CMakeLists.txt that installs utilrb and add package.xml to make it buildable with catkin
+    Signed-off-by: Ruben Smits <mailto:ruben.smits@mech.kuleuven.be>
+  * remove the use of hosted gems
+    Signed-off-by: Ruben Smits <mailto:ruben.smits@mech.kuleuven.be>
+  * add ruby extension extension lookup to also support OSX
+    Signed-off-by: Ruben Smits <mailto:ruben.smits@mech.kuleuven.be>
+
+ -- Orocos Development Team <orocos-dev@lists.mech.kuleuven.be>  Sun, 13 Oct 2013 22:00:00 -0000
+
+
