@@ -14,8 +14,8 @@ tracks:
     patches: null
     release_inc: '0'
     release_repo_url: null
-    release_tag: v:{version}
+    release_tag: :{ask}
     ros_distro: hydro
     vcs_type: git
     vcs_uri: https://git.gitorious.org/orocos-toolchain/utilrb.git
-    version: 2.7.0-rc1
+    version: :{ask}
