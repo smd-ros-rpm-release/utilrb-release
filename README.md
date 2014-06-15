@@ -1,3 +1,22 @@
+## utilrb (hydro) - 2.7.0-3
+
+The packages in the `utilrb` repository were released into the `hydro` distro by running `/usr/bin/bloom-release --ros-distro hydro --track hydro utilrb --edit` on `Sun, 15 Jun 2014 19:17:49 -0000`
+
+The `utilrb` package was released.
+
+Version of package(s) in repository `utilrb`:
+- rosdistro version: `2.7.0-2`
+- old version: `2.7.0-2`
+- new version: `2.7.0-3`
+
+Versions of tools used:
+- bloom version: `0.5.9`
+- catkin_pkg version: `0.2.2`
+- rosdep version: `0.10.27`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 ## utilrb - 2.7.0-2
 
 User `rsmits@im-desktop-01` released the packages in the `utilrb` repository by running `/usr/bin/bloom-release -t hydro -r hydro utilrb` on `Fri, 07 Feb 2014 15:02:38 -0000`
