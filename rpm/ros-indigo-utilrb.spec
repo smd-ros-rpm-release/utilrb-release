@@ -61,6 +61,8 @@ make %{?_smp_mflags} install DESTDIR=%{buildroot}
 
 %files
 /opt/ros/indigo
+%{_datadir}/ruby/utilrb.rb
+%{_datadir}/ruby/utilrb
 
 %changelog
 * Sun Jan 25 2015 Orocos Development Team <orocos-dev@lists.mech.kuleuven.be> - 2.8.0-0
